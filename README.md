@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prak-coder
 - 👀 I’m interested in ...programming
-- 🌱 I’m currently learning ...javascript,react
+- 🌱 I’m currently learning ...html&css,javascript,Node.js and React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
